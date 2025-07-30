@@ -59,7 +59,6 @@ We use the collected information for various purposes, including:
 ### 3.3 Communication
 
 - Responding to your inquiries and requests
-- Sending marketing communications (with your consent)
 - Providing customer support
 - Sending service-related announcements
 
